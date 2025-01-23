@@ -1,0 +1,7 @@
+{
+    "rules": {
+      "@typescript-eslint/no-explicit-any": "off"
+    },
+    "WillLuke.nextjs.hasPrompted": true
+  }
+  
